@@ -4,7 +4,7 @@ found in JDK Math class
 
 ### You will find in this repo:
 * Java source code regarding to Math methods located in src/
-* .gitignore file to tell Git which ones should be upload
+* .gitignore file to tell Git which ones should be uploaded
 * README.md - this file itself to show the home page of this repo
 * ...
 
