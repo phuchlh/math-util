@@ -1,3 +1,5 @@
+package main;
+
 
 import phuc.util.MathUtility;
 
